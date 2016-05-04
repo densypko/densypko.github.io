@@ -115,6 +115,13 @@
 			color: #008000
 
 		}
+		h2 strong
+		{
+			float: left;
+			padding-top:	0.75em;
+			padding-left:	2em;
+			color: #008000
+		}
 
 	em, i
 	{
