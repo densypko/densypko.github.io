@@ -118,7 +118,7 @@
 		h2 strong
 		{
 			float: left;
-			padding-top:	0.75em;
+			padding-top:	0.5em;
 			padding-left:	2em;
 			color: #008000
 		}
@@ -304,7 +304,7 @@
 
 		.image
 		{
-			width: 50%;
+			width: 40%;
 			float: left;
 			display: inline-block;
 			position: relative;
@@ -320,7 +320,7 @@
 			.image.fit
 			{
 				display: block;
-				width: 100%;
+				width: 50%;
 			}
 
 			.image.featured
